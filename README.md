@@ -8,12 +8,12 @@ Backend (Python)
 
 **ProjectStructure**
 
-/SMTMINTERN/Task4/
-
-│
+/SMTMINTERN/Docker/
 
 ├── app.py                  # Main application source code
-├── Dockerfile           
+
+├── Dockerfile 
+
 ├── requirements.txt      
 
 **Step-By-StepImplementation**
