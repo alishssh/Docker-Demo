@@ -13,10 +13,8 @@ Backend (Python)
 │
 
 ├── app.py                  # Main application source code
-
-│   ├── Dockerfile           
-
-│   ├── requirements.txt      
+├── Dockerfile           
+├── requirements.txt      
 
 **Step-By-StepImplementation**
 
