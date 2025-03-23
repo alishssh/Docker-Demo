@@ -91,4 +91,4 @@ docker push alish007/myapp **(docker push your\_dockerhub\_name)**
 
 **Conclusion:**
 
-Thisis how we make a docker container and push in dockerhub.
+This is how we make a docker container and push in dockerhub.
